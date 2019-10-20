@@ -1,5 +1,7 @@
 # ESAC Astropy Course - October 23-25 2019
 
+*For any questions/issues ahead of the workshop, you can email thomas.robitaille@aperiosoftware.com*
+
 ## If you are short on time
 
 Before we go over the installation instructions, if you don't have time or are
@@ -103,8 +105,3 @@ up the notebook server by running:
     jupyter notebook
 
 Note that there are no notebooks yet, but these will be added shortly!
-
-## In case of issues
-
-If you run into any issues ahead of the workshop, you can email
-thomas.robitaille@aperiosoftware.com.
