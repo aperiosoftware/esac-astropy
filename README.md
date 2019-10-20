@@ -59,7 +59,7 @@ then following the steps for **Option 1: If you use conda** below.
 If you use conda, the easiest way to get set up quickly is to create a new
 environment with all the required dependencies by running:
 
-    conda create -n astropy-workshop -f environment.yml
+    conda env create -n astropy-workshop -f environment.yml
 
 Anytime you want to switch to this environment, you can then do:
 
