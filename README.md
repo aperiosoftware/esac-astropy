@@ -63,9 +63,9 @@ environment with all the required dependencies by running:
 
 Anytime you want to switch to this environment, you can then do:
 
-    conda activate astropy-course
+    conda activate astropy-workshop
 
-(if this doesn't work, try ``source activate astropy-course``).
+(if this doesn't work, try ``source activate astropy-workshop``).
 
 If you want to start using any of the packages in your regular environment after
 the workshop, see the **Option 3: Manual conda installation** section.
