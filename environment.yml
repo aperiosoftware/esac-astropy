@@ -1,0 +1,20 @@
+name: astropy-course
+channels:
+  - astropy
+dependencies:
+  - python=3.7
+  - pip
+  - notebook
+  - nbconvert
+  - numpy
+  - astropy>=3.2
+  - matplotlib>=3.0
+  - scipy>=1.0
+  - aplpy>=2.0
+  - reproject>=0.5
+  - photutils>=0.7
+  - astropy-healpix>=0.4
+  - regions>=0.4
+  - astroquery>=0.3.10
+  - pip:
+    - PyVO>=1.0
