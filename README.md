@@ -26,7 +26,7 @@ instead. In both cases, once you have downloaded this, go inside the
     cd esac-astropy
 
 Note that the notebooks are not yet present in this folder, so once you have
-set up the required dependencies, you can remove the ``esac-folder`` for now
+set up the required dependencies, you can remove the ``esac-astropy`` folder for now
 and download it again on Wednesday morning.
 
 ## Requirements and installation
