@@ -20,7 +20,7 @@ To download the notebooks to your laptop, run:
 
     git clone https://github.com/aperiosoftware/esac-astropy.git
 
-If this does not work for any reason, download
+If this does not work for any reason, download and unpack
 [this zip file](https://github.com/aperiosoftware/esac-astropy/archive/master.zip)
 instead. In both cases, once you have downloaded this, go inside the
 ``esac-astropy`` folder before proceeding to the next section:
