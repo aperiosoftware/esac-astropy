@@ -1,4 +1,4 @@
-# ESAC Astropy Course - October 23-25 2019
+# ESAC Astropy Course - October 23rd-25th 2019
 
 *For any questions/issues ahead of the workshop, you can email thomas.robitaille@aperiosoftware.com*
 
