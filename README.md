@@ -63,7 +63,7 @@ Anytime you want to switch to this environment, you can then do:
 
     conda activate astropy-course
 
-(if this doesn't work, try ``source activate py37``).
+(if this doesn't work, try ``source activate astropy-course``).
 
 If you want to start using any of the packages in your regular environment after
 the workshop, see the **Option 3: Manual conda installation** section.
