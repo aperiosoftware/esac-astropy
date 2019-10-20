@@ -78,7 +78,7 @@ Python 3.5 or later you can install all the required dependencies by running:
     pip install -r requirements.txt
 
 If you prefer to install dependencies individually, see the **Option 4: Manual
-pip insallation** section.
+pip installation** section.
 
 ### Option 3: Manual conda installation
 
