@@ -87,8 +87,6 @@ sure that environment has Python 3.5 or later installed, then run:
     conda install -c astropy reproject photutils astropy-healpix regions astroquery aplpy
     pip install PyVO
 
-You can remove any packages from this list that you do not want to install.
-
 ### Option 4: Manual pip installation
 
 If you want to install the packages into an existing Python environment with
@@ -96,8 +94,6 @@ pip, make sure that environment has Python 3.5 or later installed, then run:
 
     pip install notebook numpy matplotlib scipy "astropy>=3.2"
     pip install reproject photutils astropy-healpix regions astroquery aplpy PyVO
-
-You can remove any packages from this list that you do not want to install.
 
 ## Launching the notebooks
 
