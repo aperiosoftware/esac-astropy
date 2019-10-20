@@ -6,9 +6,11 @@ Before we go over the installation instructions, if you don't have time or are
 not able to install the software on your laptop in time for the workshop, you
 can use the notebooks online instead by clicking on the following button:
 
-LINK
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aperiosoftware/esac-astropy/master)
 
-If this works, just ignore the rest of this README!
+If this works, you can just ignore the rest of this README! (though we recommend
+trying to install the software if you can since it will be useful to have on
+your laptop and we can help with installation issues).
 
 ## Notebooks
 
@@ -16,11 +18,16 @@ To download the notebooks to your laptop, run:
 
     git clone https://github.com/aperiosoftware/esac-astropy.git
 
-If this does not work for any reason, download [this zip file](LINK) instead.
-In both cases, once you have downloaded this, go inside the ``esac-astropy``
-folder before proceeding to the next section:
+If this does not work for any reason, download
+[this zip file](https://github.com/aperiosoftware/esac-astropy/archive/master.zip)
+instead. In both cases, once you have downloaded this, go inside the
+``esac-astropy`` folder before proceeding to the next section:
 
     cd esac-astropy
+
+Note that the notebooks are not yet present in this folder, so once you have
+set up the required dependencies, you can remove the ``esac-folder`` for now
+and download it again on Wednesday morning.
 
 ## Requirements and installation
 
@@ -98,3 +105,10 @@ Once you have followed one of the installation options above, you can start
 up the notebook server by running:
 
     jupyter notebook
+
+Note that there are no notebooks yet, but these will be added shortly!
+
+## In case of issues
+
+If you run into any issues ahead of the workshop, you can email
+thomas.robitaille@aperiosoftware.com.
