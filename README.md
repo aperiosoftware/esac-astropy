@@ -54,6 +54,9 @@ If you have never used Python before, we recommend downloading the [Miniconda
 distribution](https://docs.conda.io/en/latest/miniconda.html) and installing it
 then following the steps for **Option 1: If you use conda** below.
 
+If you normally use Python and think you might already have these, go to
+the **Checking your installation** section at the bottom of this file.
+
 ### Option 1: If you use conda
 
 If you use conda, the easiest way to get set up quickly is to create a new
@@ -97,11 +100,11 @@ pip, make sure that environment has Python 3.5 or later installed, then run:
     pip install notebook numpy matplotlib scipy "astropy>=3.2"
     pip install reproject photutils astropy-healpix regions astroquery aplpy PyVO
 
-## Launching the notebooks
+## Checking your installation
 
 Once you have followed one of the installation options above, you can start
 up the notebook server by running:
 
     jupyter notebook
 
-Note that there are no notebooks yet, but these will be added shortly!
+To check that your installation works, open the ``00-check-installation`` notebook, then go to the **Cell** menu and click on **Run All**. If there are no errors, you are all set to go!
