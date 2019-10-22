@@ -27,10 +27,6 @@ instead. In both cases, once you have downloaded this, go inside the
 
     cd esac-astropy
 
-Note that the notebooks are not yet present in this folder, so once you have
-set up the required dependencies, you can remove the ``esac-astropy`` folder for now
-and download it again on Wednesday morning.
-
 ## Requirements and installation
 
 To run all the notebooks on your laptop, you will need the following software
@@ -107,4 +103,6 @@ up the notebook server by running:
 
     jupyter notebook
 
-To check that your installation works, open the ``00-check-installation`` notebook, then go to the **Cell** menu and click on **Run All**. If there are no errors, you are all set to go!
+To check that your installation works, open the ``00-check-installation``
+notebook, then go to the **Cell** menu and click on **Run All**. If there are no
+errors, you are all set to go!
