@@ -1,6 +1,7 @@
 # ESAC Astropy Course - October 23rd-25th 2019
 
-*For any questions/issues ahead of the workshop, you can email thomas.robitaille@aperiosoftware.com*
+During the workshop you can take notes on questions/issues/requests in [this document](https://docs.google.com/document/d/1OHHypIeLezcy6Qj0NAUynF30tW5plnJdm4eI9fllUxc/edit?usp=sharing
+).
 
 ## If you are short on time
 
