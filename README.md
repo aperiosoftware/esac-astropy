@@ -3,6 +3,8 @@
 During the workshop you can take notes on questions/issues/requests in [this document](https://docs.google.com/document/d/1OHHypIeLezcy6Qj0NAUynF30tW5plnJdm4eI9fllUxc/edit?usp=sharing
 ).
 
+You can also give feedback on the workshop using [this form](https://docs.google.com/forms/d/e/1FAIpQLSf6gbG30wb_wJpMKBwonjoJ84REFgRQVWpeR0-NgHlDX40zCw/viewform).
+
 ## Contributing to open source software
 
 This workshop makes use of several open source software packages, primarily astropy, which rely on contributions from the community.
