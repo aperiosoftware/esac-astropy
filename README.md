@@ -6,7 +6,7 @@ During the workshop you can take notes on questions/issues/requests in [this doc
 ## Contributing to open source software
 
 This workshop makes use of several open source software packages, primarily astropy, which rely on contributions from the community.
-If youre interested in contributing to the development or organisation of open source software, see [this list of resources](contributing.md)
+If you're interested in contributing to the development or organisation of open source software, see [this list of resources](contributing.md).
 
 ## If you are short on time
 
