@@ -3,6 +3,11 @@
 During the workshop you can take notes on questions/issues/requests in [this document](https://docs.google.com/document/d/1OHHypIeLezcy6Qj0NAUynF30tW5plnJdm4eI9fllUxc/edit?usp=sharing
 ).
 
+## Contributing to open source software
+
+This workshop makes use of several open source software packages, primarily astropy, which rely on contributions from the community.
+If youre interested in contributing to the development or organisation of open source software, see [this list of resources](contributing.md)
+
 ## If you are short on time
 
 Before we go over the installation instructions, if you don't have time or are
